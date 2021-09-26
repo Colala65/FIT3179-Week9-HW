@@ -1,0 +1,163 @@
+Afghanistan,AFG,2018,330636,Afghanistan,Delete
+Albania,ALB,2018,96034,Albania,Delete
+Algeria,DZA,2018,806392,Algeria,Delete
+Angola,AGO,2018,262490,Angola,Delete
+Antigua and Barbuda,ATG,2018,407,Antigua and Barbuda,Delete
+Argentina,ARG,2018,5930063,Argentina,Delete
+Armenia,ARM,2018,108247,Armenia,Delete
+Australia,AUS,2018,4658530,Australia,Delete
+Austria,AUT,2018,910026,Austria,Delete
+Azerbaijan,AZE,2018,326024,Azerbaijan,Delete
+Bahamas,BHS,2018,7543,Bahamas,Delete
+Bahrain,BHR,2018,24397,Bahrain,Delete
+Bangladesh,BGD,2018,705745,Bangladesh,Delete
+Barbados,BRB,2018,19732,Barbados,Delete
+Belarus,BLR,2018,1193215,Belarus,Delete
+Belgium,BEL,2018,1825437,Belgium,Delete
+Belize,BLZ,2018,23885,Belize,Delete
+Benin,BEN,2018,81417,Benin,Delete
+Bhutan,BTN,2018,6770,Bolivia,Keep
+Bolivia,BOL,2018,914906,Bosnia and Herzegovina,Delete
+Bosnia and Herzegovina,BIH,2018,82235,Botswana,Delete
+Botswana,BWA,2018,71616,Brazil,Delete
+Brazil,BRA,2018,29341250,Brunei,Delete
+Brunei,BRN,2018,26127,Burkina Faso,Delete
+Bulgaria,BGR,2018,232673,Burma,Keep
+Burkina Faso,BFA,2018,261402,Burundi,Delete
+Burundi,BDI,2018,28914,Cabo Verde,Delete
+Cambodia,KHM,2018,180454,Cambodia,Delete
+Cameroon,CMR,2018,306393,Cameroon,Delete
+Canada,CAN,2018,4893195,Canada,Delete
+Central African Republic,CAF,2018,188629,Chad,Keep
+Chad,TCD,2018,748787,Chile,Delete
+Chile,CHL,2018,1504623,China,Delete
+China,CHN,2018,88156383,Colombia,Delete
+Colombia,COL,2018,2829394,Comoros,Delete
+Comoros,COM,2018,2365,Dem. Rep. Congo,Delete
+Costa Rica,CRI,2018,282275,Cote d'Ivoire,Keep
+Cote d'Ivoire,CIV,2018,283403,Croatia,Delete
+Croatia,HRV,2018,231042,Cuba,Delete
+Cuba,CUB,2018,348827,Cyprus,Delete
+Cyprus,CYP,2018,79496,Czechia,Delete
+Denmark,DNK,2018,1874459,Djibouti,Keep
+Djibouti,DJI,2018,11694,Dominica,Delete
+Dominica,DMA,2018,1422,Dominican Republic,Delete
+Dominican Republic,DOM,2018,480509,Ecuador,Delete
+Ecuador,ECU,2018,825199,Egypt,Delete
+Egypt,EGY,2018,2152429,El Salvador,Delete
+El Salvador,SLV,2018,162032,Equatorial Guinea,Delete
+Equatorial Guinea,GNQ,2018,626,Eritrea,Delete
+Eritrea,ERI,2018,40868,Estonia,Delete
+Estonia,EST,2018,74364,Eswatini,Delete
+Ethiopia,ETH,2018,788102,Ethiopia,Delete
+Fiji,FJI,2018,44127,France,Keep
+Finland,FIN,2018,395697,Gabon,Keep
+France,FRA,2018,5621700,Gambia,Delete
+Gabon,GAB,2018,40220,Ghana,Delete
+Gambia,GMB,2018,9311,Greece,Delete
+Georgia,GEO,2018,72133,Grenada,Keep
+Germany,DEU,2018,8188920,Guatemala,Keep
+Ghana,GHA,2018,290563,Guinea,Delete
+Greece,GRC,2018,446972,Guinea-Bissau,Delete
+Grenada,GRD,2018,1194,Haiti,Delete
+Guatemala,GTM,2018,477118,Hungary,Delete
+Guinea,GIN,2018,129046,Iceland,Delete
+Guinea-Bissau,GNB,2018,28084,India,Delete
+Guyana,GUY,2018,49984,Indonesia,Keep
+Haiti,HTI,2018,109239,Iran,Delete
+Honduras,HND,2018,283029,Iraq,Keep
+Hungary,HUN,2018,1037355,Israel,Delete
+Iceland,ISL,2018,35731,Italy,Delete
+India,IND,2018,7454329,Jamaica,Delete
+Indonesia,IDN,2018,3596531,Japan,Delete
+Iran,IRN,2018,3086281,Jordan,Delete
+Iraq,IRQ,2018,191101,Kazakhstan,Delete
+Ireland,IRL,2018,1139853,Kenya,Keep
+Israel,ISR,2018,803723,"Korea, South",Delete
+Italy,ITA,2018,3667805,Kosovo,Delete
+Jamaica,JAM,2018,148165,Kuwait,Delete
+Japan,JPN,2018,4016429,Kyrgyzstan,Delete
+Jordan,JOR,2018,244200,Laos,Delete
+Kazakhstan,KAZ,2018,1050620,Latvia,Delete
+Kenya,KEN,2018,879126,Lebanon,Delete
+Kuwait,KWT,2018,108012,Liberia,Delete
+Kyrgyzstan,KGZ,2018,229753,Libya,Delete
+Laos,LAO,2018,156518,Liechtenstein,Delete
+Latvia,LVA,2018,91469,Lithuania,Delete
+Lebanon,LBN,2018,180141,Luxembourg,Delete
+Lesotho,LSO,2018,30290,Madagascar,Keep
+Liberia,LBR,2018,37183,Malawi,Delete
+Libya,LBY,2018,191541,Malaysia,Delete
+Lithuania,LTU,2018,250183,Maldives,Delete
+Luxembourg,LUX,2018,23621,Mali,Delete
+Madagascar,MDG,2018,347152,Mauritius,Delete
+Malawi,MWI,2018,561944,Mexico,Delete
+Malaysia,MYS,2018,2113716,Moldova,Delete
+Maldives,MDV,2018,870,Monaco,Delete
+Mali,MLI,2018,460730,Mongolia,Delete
+Malta,MLT,2018,11630,Montenegro,Keep
+Mauritania,MRT,2018,118094,Mozambique,Keep
+Mauritius,MUS,2018,52213,MS Zaandam,Delete
+Mexico,MEX,2018,7051277,Nepal,Delete
+Moldova,MDA,2018,122512,New Zealand,Delete
+Mongolia,MNG,2018,430466,Nicaragua,Delete
+Montenegro,MNE,2018,13282,Niger,Delete
+Morocco,MAR,2018,1345660,North Macedonia,Keep
+Mozambique,MOZ,2018,239705,Norway,Delete
+Namibia,NAM,2018,73763,Pakistan,Keep
+Nepal,NPL,2018,399988,Papua New Guinea,Delete
+Netherlands,NLD,2018,2936411,Paraguay,Keep
+New Zealand,NZL,2018,1452644,Poland,Delete
+Nicaragua,NIC,2018,292028,Portugal,Delete
+Niger,NER,2018,182125,Qatar,Delete
+Nigeria,NGA,2018,1451207,Romania,Keep
+Norway,NOR,2018,361001,Saint Kitts and Nevis,Delete
+Oman,OMN,2018,80033,Saint Lucia,Keep
+Pakistan,PAK,2018,3870230,Saint Vincent and the Grenadines,Delete
+Panama,PAN,2018,322935,Sao Tome and Principe,Keep
+Papua New Guinea,PNG,2018,501672,Saudi Arabia,Delete
+Paraguay,PRY,2018,734282,Senegal,Delete
+Peru,PER,2018,2015635,Serbia,Keep
+Philippines,PHL,2018,3641656,Seychelles,Keep
+Poland,POL,2018,4462900,Sierra Leone,Delete
+Portugal,PRT,2018,851574,Slovakia,Delete
+Qatar,QAT,2018,24131,Somalia,Delete
+Romania,ROU,2018,1151673,South Sudan,Delete
+Russia,RUS,2018,10629378,Spain,Keep
+Rwanda,RWA,2018,95278,Sri Lanka,Keep
+Saint Kitts and Nevis,KNA,2018,232,Sudan,Delete
+Saint Lucia,LCA,2018,4678,Suriname,Delete
+Saint Vincent and the Grenadines,VCT,2018,1119,Switzerland,Delete
+Sao Tome and Principe,STP,2018,1339,Taiwan,Delete
+Saudi Arabia,SAU,2018,762218,Tajikistan,Delete
+Senegal,SEN,2018,226682,Tanzania,Delete
+Serbia,SRB,2018,514734,Thailand,Delete
+Seychelles,SYC,2018,1040,Timor-Leste,Delete
+Sierra Leone,SLE,2018,47104,Togo,Delete
+Singapore,SGP,2018,125342,Trinidad and Tobago,Keep
+Slovakia,SVK,2018,152268,Tunisia,Delete
+Slovenia,SVN,2018,137171,Turkey,Keep
+Somalia,SOM,2018,188165,Ukraine,Delete
+South Africa,ZAF,2018,3241019,United Arab Emirates,Keep
+South Sudan,SSD,2018,433800,United States of America,Delete
+Spain,ESP,2018,7028021,Vietnam,Delete
+Sri Lanka,LKA,2018,215157,West Bank and Gaza,Delete
+Sudan,SDN,2018,986987,Western Sahara,Delete
+Suriname,SUR,2018,14636,Yemen,Delete
+Sweden,SWE,2018,569733,Zimbabwe,Keep
+Togo,TGO,2018,72643,,Delete
+Trinidad and Tobago,TTO,2018,68597,,Delete
+Tunisia,TUN,2018,345521,,Delete
+Turkey,TUR,2018,3668362,,Delete
+Uganda,UGA,2018,519318,,Keep
+Ukraine,UKR,2018,2382786,,Delete
+United Arab Emirates,ARE,2018,170357,,Delete
+United Kingdom,GBR,2018,4087453,,Keep
+Uruguay,URY,2018,662119,,Keep
+Uzbekistan,UZB,2018,1205758,,Keep
+Venezuela,VEN,2018,1294958,,Keep
+Vietnam,VNM,2018,5227733,,Delete
+Western Sahara,ESH,2018,2518,,Delete
+Yemen,YEM,2018,424876,,Delete
+Zambia,ZMB,2018,321329,,Keep
+Zimbabwe,ZWE,2018,259091,,Delete
